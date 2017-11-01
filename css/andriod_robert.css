@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#box{
+	position: relative;
+	width: 320px;
+	height: 420px;
+	border: 1px solid #000;
+	margin: 50px auto;
+	box-shadow: 0 0 2px 2px grey;
+}
+.robert_body{
+	position: absolute;
+	width: 160px;
+	height: 160px;
+	background-color: #A4C838;
+	border-radius: 0 0 20px 20px;
+	left: 50%;
+	top: 50%;
+	margin-left: -80px;
+	margin-top: -80px;
+}
+.robert_head{
+	position: absolute;
+    width: 160px;
+    height: 70px;
+    background-color: #A4C838;
+    border-radius: 80px 80px 0 0;
+    transform: rotateZ(-8deg);
+    left: 74px;
+    top: 44px;
+}
+.eye1{
+	position: absolute;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #fff;
+    top: 30px;
+    left: 40px;
+}
+.eye2{
+	position: absolute;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #fff;
+    top: 27px;
+    left: 104px;
+}
+.line1{
+	position: absolute;
+    width: 4px;
+    height: 32px;
+    border-radius: 2px;
+    background-color: #A4C838;
+    left: 106px;
+    top: 25px;
+    transform: rotateZ(-44deg);
+}
+.line2{
+	position: absolute;
+    width: 4px;
+    height: 32px;
+    border-radius: 2px;
+    background-color: #A4C838;
+    left: 176px;
+    top: 15px;
+    transform: rotateZ(22deg);
+}
+.hand{
+	position: absolute;
+    width: 34px;
+    height: 120px;
+    border-radius: 14px;
+    background-color: #A4C838;
+    top: 142px;
+    left: 40px;
+    box-shadow: 206px 0 0 #A4C838;
+}
+.foot{
+	position: absolute;
+    width: 34px;
+    height: 80px;
+    border-radius: 0 0 16px 16px;
+    background-color: #A4C838;
+    left: 110px;
+    bottom: 60px;
+    box-shadow: 70px 0 0 #A4C838;
+}

@@ -1,0 +1,297 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#box{
+	background-color: #AAAA4A;
+	width: 880px;
+	height: 1000px;
+	margin: -8px auto;
+}
+.title{
+	position: absolute;
+	color: white;
+	font-size: 36px;
+	top: 40px;
+	margin-left: 360px;
+	width: auto;
+}
+/* 星期导航 */
+#week{
+	position: absolute;
+	background-color: #E0DFBA;
+	width: 880px;
+	height: 60px;
+	top: 118px;
+	border-top: 5px solid #D2D2D2;
+}
+#week ul{
+	list-style: none;
+}
+#week ul li{
+	font-size: 26px;
+    color: #5A5B29;
+    float: left;
+    width: 120px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+/* 时间点 */
+#time{
+	float: left;
+    background-color: #E0DFBA;
+    width: 50px;
+    height: 804px;
+    margin-top: 196px;
+}
+#time ul{
+	list-style: none;
+}
+#time ul li{
+	color: #565724;
+	font-size: 26px;
+	width: 50px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+}
+/* 课程表盒子 */
+#myClass{
+	float: left;
+    border: 1px solid transparent;
+    width: 670px;
+    height: 804px;
+    margin-top: 190px;
+    margin-left: 120px;
+}
+/* 1、2节课程 */
+.class1-2_1{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #6FA1E0;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class1-2_2{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #B15B7E;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class1-2_3{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #9D8FCC;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class1-2_4{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #EEC291;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class1-2_5{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #6FA1E0;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class1-2_6{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #FA809D;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+/* 3、4节课程 */
+.class_none{
+	float: left;
+	border: 5px solid transparent;
+	width: 94px;
+	height: 150px;
+	background-color: transparent;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class3-4_2{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #4DC4CC;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class3-4_3{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #6FA1E0;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class_none{
+	float: left;
+	border: 5px solid transparent;
+	width: 94px;
+	height: 150px;
+	background-color: transparent;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class3-4_5{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #B15B7E;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class3-4_6{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #FA809D;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+/* 5、6节课程 */
+.class5-6_1{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #F18D7E;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class5-6_2{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #F18D7E;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class5-6_3{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #B15B7E;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class5-6_4{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #F18D7E;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class5-6_5{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #9D8FCC;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class_none{
+	float: left;
+	border: 5px solid transparent;
+	width: 94px;
+	height: 150px;
+	background-color: transparent;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+/* 7、8节课程 */
+.class7-8_1{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #EEC291;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class_none{
+	float: left;
+	border: 5px solid transparent;
+	width: 94px;
+	height: 150px;
+	background-color: transparent;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class7-8_3{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #82E27B;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.class7-8_4{
+	float: left;
+	border: 5px solid #fff;
+	width: 94px;
+	height: 150px;
+	background-color: #4DC4CC;
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-right: 6px;
+}
+p{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 40px; 
+}
