@@ -1,4 +1,4 @@
 # practice
-https://htmlpreview.github.io/?https://github.com/Afengstephen/3d_drap_photo/blob/master/index.html
-https://htmlpreview.github.io/?https://github.com/Afengstephen/3d_drap_photo/blob/master/index.html
-https://htmlpreview.github.io/?https://github.com/Afengstephen/3d_drap_photo/blob/master/index.html
+安卓机器人https://htmlpreview.github.io/?https://github.com/Afengstephen/practice/blob/master/andriod_robert.html
+随机点名https://htmlpreview.github.io/?https://github.com/Afengstephen/practice/blob/master/random_call_name.html
+课程表https://htmlpreview.github.io/?https://github.com/Afengstephen/practice/blob/master/scheduleTest.html
